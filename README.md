@@ -1,0 +1,1 @@
+# simple_inheritance_example_rubyy
