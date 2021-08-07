@@ -1,1 +1,1 @@
-# simple_inheritance_example_rubyy
+# simple_inheritance_example_ruby
